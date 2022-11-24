@@ -3,9 +3,6 @@
 		Create a Spring MVC (WAR) with Ant build script
 	</description>
 
-	<artifact:dependencies settingsFile="conf/settings.xml">
-    </artifact:dependencies>
-
 	<!-- Project Structure -->
 	<property name="jdk.version" value="1.7" />
 	<property name="projectName" value="WebProject" />
